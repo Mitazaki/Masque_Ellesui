@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Masque: Ellesui
+## Notes: A close-match Masque skin inspired by Ellesui action bars with a grey bevel, inner shadow, thin black outer border, and 5.5% icon zoom.
+## Version: 1.3.0
+## Author: Numbtongue
+## Dependencies: Masque
+
+Masque_Ellesui.lua
