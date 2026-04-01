@@ -5,7 +5,7 @@ end
 
 local PATH = [[Interface\AddOns\Masque_Ellesui\Textures\]]
 local VERSION = "1.3.0"
-local MASQUE_VERSION = 120001
+local MASQUE_VERSION = 120005
 
 local function addSkin()
 	local iconSize = 36
